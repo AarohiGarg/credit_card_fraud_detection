@@ -9,4 +9,8 @@ This was generated using Sparkov Data Generation | Github tool created by Brando
 
 This simulated dataset is based on another Credit Card Fraud Detection Dataset ([link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)). The original dataset contains transactions made by credit cards in September 2013 by European cardholders. It presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
+## Results
+![image](https://github.com/AarohiGarg/credit_card_fraud_detection/assets/46968591/d5336a8c-e822-48b6-935c-501f9abfe16a)
+
+
 
